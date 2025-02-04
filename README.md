@@ -1,5 +1,5 @@
 # About
-I created a program that allows the advisors of the Computer Science department at ABC University to access course information for students. More specifically, the advisors needed to be able to access the following functionalities from a user menu:
+I created a program that allows the advisors of the Computer Science department at ABC University to access course information for students. More specifically, the advisors need to be able to access the following functionalities from a user menu:
 > Load a course data file into the data structure.
 > Print course list in alphanumeric order for all the courses in the Computer Science department.
 > Search for a user inputted course number and print the course name and any prerequisites for that course.
